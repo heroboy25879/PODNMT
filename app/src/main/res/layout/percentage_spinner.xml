@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linSpinner"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <com.beardedhen.androidbootstrap.BootstrapProgressBar
+        android:id="@+id/spinnerProgress"
+        style="@style/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/mini_margin"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        app:animated="false"
+        app:bootstrapBrand="success"
+        app:bootstrapMaxProgress="100"
+        app:bootstrapSize="xl"
+        app:bootstrapshowPercentage="true"
+        app:striped="true" />
+
+</LinearLayout>

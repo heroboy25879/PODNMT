@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Login">เข้าสู่ระบบ</string>
+    <string name="Username">ชื่อผู้ใช้งาน</string>
+    <string name="Password">รหัสผ่าน</string>
+    <string name="TripNo">เที่ยว 0</string>
+    <string name="worksheetNo">หมายเลขใบงาน : </string>
+    <string name="tripDate">วันที่เดินทาง : </string>
+    <string name="Start">เริ่ม</string>
+    <string name="Finish">จบ</string>
+    <string name="err_gps1">ไม่สามารถรับ พิกัดได้ กรุณาลองใหม่อีกครั้ง</string>
+    <string name="errLogin">เข้าสู่ระบบผิดพลาด กรุณาตรวจสอบ ชื่อผู้ใช้งาน/รหัสผ่าน อีกครั้ง</string>
+    <string name="pallet">พาเลท</string>
+    <string name="save_success">บันทึกสำเร็จ</string>
+    <string name="save_error">การบันทึกผิดพลาด!!! กรุณาลองใหม่อีกครั้ง</string>
+    <string name="Date">วันที่</string>
+    <string name="Plan">แพลน</string>
+    <string name="OK">ตกลง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="err_gps">ไม่สามารถรับ พิกัดได้ กรุณาลองใหม่อีกครั้ง</string>
+    <string name="truck_license">ทะเบียนรถ :</string>
+    <string name="truck_type">ประเภทรถ : </string>
+    <string name="driver_name">ชื่อผู้ขับ  :</string>
+    <string name="trip">เที่ยว</string>
+    <string name="departure">ออกเดินทาง</string>
+    <string name="check_exit">กรุณากดปุ่มย้อนกลับอีกครั้งเพื่อทำการออก</string>
+    <string name="login_success">เข้าสู่ระบบสำเร็จ</string>
+    <string name="check_back">กรุณากดปุ่มย้อนกลับ อีกครั้งเพื่อทำการกลับสู่หน้าก่อนหน้านี้</string>
+    <string name="refresh">โหลดหน้าใหม่</string>
+    <string name="logout">ออกจากระบบ</string>
+    <string name="alert_logout">คุณต้องการออกจากระบบใช่หรือไม่?</string>
+    <string name="departDialog">ยืนยันการรับ/ส่งสินค้าเรียบร้อยแล้วใช่หรือไม่?</string>
+    <string name="arrivalDialog">ถึงจุดหมายแล้วใช่หรือไม่?</string>
+    <string name="alert">แจ้งเตือน</string>
+    <string name="yes">ตกลง</string>
+    <string name="no">ยกเลิก</string>
+    <string name="dialog_save">คุณต้องการบันทึกข้อมูลใช่หรือไม่?</string>
+    <string name="arrival">ถึงจุดหมาย</string>
+    <string name="comment">หมายเหตุ....</string>
+    <string name="notlogin">กรุณาติดต่อเจ้าหน้าที่ปฏิบัติการขนส่ง</string>
+    <string name="duplicate">มีการลงชื่อเข้าใช้ซ้อน กรุณาเข้าสู่ระบบใหม่อีกครั้ง</string>
+    <string name="percent_load">% การบรรทุกสินค้า</string>
+    <string name="Savepic">บันทึกรูป</string>
+    <string name="save_pic_success">บันทึกรูปเสร็จสิ้น</string>
+    <string name="save_pic_unsuccess">บันทึกรูปไม่สำเร็จลองใหม่อีกครั้ง</string>
+    <string name="loading">กำลังโหลด...</string>
+</resources>
